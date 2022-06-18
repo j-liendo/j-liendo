@@ -4,7 +4,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original-wordmark.svg" />
-  <img align="center" height="60" width="60" src=https://github.com/devicons/devicon/blob/v2.14.0/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/nodejs/nodejs-plain.svg" />
   <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 
 </div>
